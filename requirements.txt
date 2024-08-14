@@ -1,0 +1,15 @@
+openai
+tiktoken
+langchain
+gradio
+pypdf
+requests
+validators
+pytesseract
+pdf2image
+tabulate
+nltk
+python-dotenv
+faiss-cpu
+unstructured[all-docs]
+pydantic-settings

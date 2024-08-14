@@ -1,0 +1,29 @@
+#col-container {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#row-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.filenameshow{
+  height:85px;
+}
+.spaceH{
+  padding-top:45px;
+}
+.leftimage .rightimage{
+  float:left;
+}
+.leftimage{
+  display: inline-block;
+  padding-top:26px;
+  padding-left:170px;
+}
+.rightimage{
+  display: inline-block;
+  padding-top:15px;
+  margin-right:190px;
+}
